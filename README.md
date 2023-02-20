@@ -33,7 +33,7 @@
 
 ## Куда сдавать задания и в какие сроки
 
-[HW1]() сдавать [сюда]()
+[HW1](https://github.com/pileyan/DPO_Python_2023/blob/master/homework/hw1.ipynb) сдавать [сюда](https://www.dropbox.com/request/cFiE1T0ucmnrbn57AxBe) (Сдавать до 25.02.2023 включительно)
 
 [HW2]() сдавать [сюда]()
 
