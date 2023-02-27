@@ -35,7 +35,7 @@
 
 [HW1](https://github.com/pileyan/DPO_Python_2023/blob/master/homework/hw1.ipynb) сдавать [сюда](https://www.dropbox.com/request/cFiE1T0ucmnrbn57AxBe) (Сдавать до 26.02.2023 включительно)
 
-[HW2]() сдавать [сюда]()
+[HW2](https://github.com/pileyan/DPO_Python_2023/blob/master/homework/hw2.ipynb) сдавать [сюда](https://www.dropbox.com/request/4ct0F2s17O2eH7XtHzM4)(Сдавать до 05.03.2023 включительно)
 
 [HW3]() сдавать [сюда]()
 
