@@ -37,7 +37,7 @@
 
 [HW2](https://github.com/pileyan/DPO_Python_2023/blob/master/homework/hw2.ipynb) сдавать [сюда](https://www.dropbox.com/request/4ct0F2s17O2eH7XtHzM4)(Сдавать до 05.03.2023 включительно)
 
-[HW3]() сдавать [сюда]()
+[HW3](https://github.com/pileyan/DPO_Python_2023/blob/master/homework/hw3.ipynb) сдавать [сюда](https://www.dropbox.com/request/FM4ANm4L2vLiTbCbI5NX)(Сдавать до 19.03.2023 включительно)
 
 [HW4] Парсинг информации
 
