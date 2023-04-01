@@ -36,3 +36,7 @@ console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1
 1679736168372	Marionette	INFO	Listening on port 49779
 1679736168964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/t5/3hn40ss10rz402rc6dg3_jqm0000gp/T/rust_mozprofileA2LMwW/search.json.mozlz4", (void 0)))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
